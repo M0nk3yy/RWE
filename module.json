@@ -1,0 +1,22 @@
+{   
+   "name": "RWE",   
+   "title": "Revised Weapons & Equipment",   
+   "description": "Revised descriptions, icons, and balance for various weapons & equipment items.",   
+   "author": "Monkeyy",
+   "version": "0.0.1",
+   "system": ["dnd5e"],
+   "minimumCoreVersion": "9",
+   "compatibleCoreVersion":"9",
+   "packs": [
+    {
+      "name": "items",
+      "label": "Revised Weapons & Equipment",
+      "path": "packs/rwe.db",
+      "entity": "Item",
+      "module": "RWE"
+    }
+  ],
+	"url": "https://github.com/M0nk3yy/Revised-Weapons-Equipment",
+	"manifest": "none yet",
+	"download": "none yet"
+ }
