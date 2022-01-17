@@ -17,6 +17,6 @@
     }
   ],
 	"url": "https://github.com/M0nk3yy/Revised-Weapons-Equipment",
-	"manifest": "none yet",
-	"download": "none yet"
+	"manifest": "https://raw.githubusercontent.com/M0nk3yy/RWE/main/module.json",
+	"download": "https://github.com/M0nk3yy/RWE/archive/refs/tags/v0.0.1.zip"
  }
