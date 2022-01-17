@@ -47,10 +47,9 @@ A small number of new weapons have been included such as the Andamacil, War Axe,
 
 ![image](https://user-images.githubusercontent.com/66137312/149818738-2fa1d6ee-861f-4c68-a337-bd28e4f05f55.png)
 
+## Contact Information
 
-
-
-
+You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
 
 ## Installation Instructions
 In the "Add-on Modules" browser of the Foundry Setup page, click "Install Module" and then paste the following link into the "Manifest URL" box and click "Install".
