@@ -37,21 +37,27 @@ A player (especially if they are new) should not have to delve into the 'details
 
 There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d10 damage and has the Versatile property. However, a War Pick deals 1d10 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
 
+Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaive's are Versatile 2d6 when mounted on horseback, and Halberds have a Versatile property to choose between Slashing and Piercing damage.
+
 To do: Include full table of weapon changes
 
 ## 4. New weapons
   
-A small number of new weapons have been included such as the Andamacil, War Axe, and Pistol.
+A small number of new weapons have been included such as the Andamacil, War Axe, Pistol, and several new shields.
   
 ![image](https://user-images.githubusercontent.com/66137312/149818623-881affe7-97a8-41d2-9830-b973c02ab2e7.png)
 
 ![image](https://user-images.githubusercontent.com/66137312/149818738-2fa1d6ee-861f-4c68-a337-bd28e4f05f55.png)
+
+![image](https://user-images.githubusercontent.com/66137312/149820846-36451ee4-a4ec-4747-b9dd-b86929e91e1f.png)
 
 ## Contact Information
 
 You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
 
 ## Installation Instructions
-In the "Add-on Modules" browser of the Foundry Setup page, click "Install Module" and then paste the following link into the "Manifest URL" box and click "Install".
+In the "Add-on Modules" browser of the Foundry Setup page,  click "Install Module" and then search for this module.
 
-https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json - edit this
+To install manually, paste the following link into the "Manifest URL" box and click "Install".
+
+https://raw.githubusercontent.com/M0nk3yy/CurseOfStrahdStuff/master/module.json
