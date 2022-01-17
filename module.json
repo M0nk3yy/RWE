@@ -3,7 +3,7 @@
    "title": "Revised Weapons & Equipment",   
    "description": "Revised descriptions, icons, and balance for various weapons & equipment items.",   
    "author": "Monkeyy",
-   "version": "0.0.1",
+   "version": "1.0.0",
    "system": ["dnd5e"],
    "minimumCoreVersion": "9",
    "compatibleCoreVersion":"9",
@@ -16,7 +16,7 @@
       "module": "RWE"
     }
   ],
-	"url": "https://github.com/M0nk3yy/Revised-Weapons-Equipment",
+	"url": "https://github.com/M0nk3yy/RWE",
 	"manifest": "https://raw.githubusercontent.com/M0nk3yy/RWE/main/module.json",
-	"download": "https://github.com/M0nk3yy/RWE/archive/refs/tags/v0.0.1.zip"
+	"download": "https://github.com/M0nk3yy/RWE/archive/refs/tags/v1.0.0.zip"
  }
