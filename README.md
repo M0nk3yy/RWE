@@ -1,4 +1,4 @@
-# Revised Weapons & Equipment
+# Revised Weapons & Equipment for 5e
 
 This module has several goals:
 
