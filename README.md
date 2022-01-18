@@ -51,6 +51,10 @@ A small number of new weapons have been included such as the Andamacil, War Axe,
 
 ![image](https://user-images.githubusercontent.com/66137312/149820846-36451ee4-a4ec-4747-b9dd-b86929e91e1f.png)
 
+## Dependencies
+
+Although this mod does not have any dependencies, it is configured to work best with the Compendium Folders mod.
+
 ## Contact Information
 
 You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
