@@ -37,7 +37,7 @@ A player (especially if they are new) should not have to delve into the 'details
 
 There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d10 damage and has the Versatile property. However, a War Pick deals 1d10 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
 
-Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaive's are Versatile 2d6 when mounted on horseback, and Halberds have a Versatile property to choose between Slashing and Piercing damage.
+Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaive's deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
 
 To do: Include full table of weapon changes
 
@@ -59,11 +59,5 @@ Although this mod does not have any dependencies, it is configured to work best 
 
 You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
 
-## Installation Instructions
-In the "Add-on Modules" browser of the Foundry Setup page,  click "Install Module" and then search for this module.
-
-To install manually, paste the following link into the "Manifest URL" box and click "Install".
-
-https://raw.githubusercontent.com/M0nk3yy/RWE/main/module.json
 
 ![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/RWE/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/RWE) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/RWE/latest/total)   ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/RWE) ![](https://img.shields.io/badge/Foundry-v9-informational)
