@@ -47,7 +47,7 @@ A small number of new weapons have been included such as the Andamacil, War Axe,
   
 ![image](https://user-images.githubusercontent.com/66137312/149818623-881affe7-97a8-41d2-9830-b973c02ab2e7.png)
 
-![image](https://user-images.githubusercontent.com/66137312/149818738-2fa1d6ee-861f-4c68-a337-bd28e4f05f55.png)
+![image](https://user-images.githubusercontent.com/66137312/150355221-c646e123-34b7-428b-91f1-fe79091b7daa.png)
 
 ![image](https://user-images.githubusercontent.com/66137312/149820846-36451ee4-a4ec-4747-b9dd-b86929e91e1f.png)
 
