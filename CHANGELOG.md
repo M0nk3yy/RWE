@@ -1,9 +1,12 @@
 # v1.0.2
 
-- Added Firearm property to pistol.
 - New weapon: Musket.
 - New consumable: Throwing Bomb.
-- 
+- Pistol: Fixed properties.
+- Trident: Fixed properties.
+- Crude Club: Fixed description.
+- Sickle: Fixed description.
+- Blowgun: Fixed description.
 
 ## v1.0.1
 
