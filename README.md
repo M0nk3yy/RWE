@@ -44,20 +44,20 @@ Additionally, some weapons have been made more unique. As written, Glaives and H
 Simple:
 
 - Club - Increased damage to 1d6
-- Greatclub - Reduced damage to 1d8, removed Heavy property.
+- Greatclub - Increased damage to 1d10, added Heavy property.
 - Handaxe - Removed Thrown property.
-- Mace - Reduced damage to 1d6.
+- Mace - Increased damage to 1d8.
 - Sickle - Increased damage to 1d6.
 
 Martial:
 
-- Blowgun - Changed from Martial to Simple ranged weapon.
+- Blowgun - Changed from Martial to Simple, removed Loading property.
 - Flail - Added Versatile property.
 - Glaive - Added Special property; deals 2d6 when mounted.
 - Halberd - Added Special property; choice of slashing and piercing damage.
 - Morningstar - Added Versatile property.
 - Rapier - Reduced damage to 1d6, added Special property; deals 1d8 when offhand isn't holding a weapon or shield.
-- Trident - Increased damage to 1d8, removed Versatile property.
+- Trident - Increased damage to 1d8, removed Thrown property.
 - War Pick - Added Versatile property.
 
 ## 4. New weapons
