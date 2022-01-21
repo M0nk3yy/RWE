@@ -1,7 +1,8 @@
 # v1.0.2
 
 - Added Firearm property to pistol.
-- New weapon: Throwing Bomb.
+- New weapon: Musket.
+- New consumable: Throwing Bomb.
 - 
 
 ## v1.0.1
