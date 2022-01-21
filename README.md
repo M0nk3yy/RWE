@@ -51,7 +51,7 @@ Simple:
 
 Martial:
 
-- Blowgun - Changed from Martial to Simple ranged weapon.
+- Blowgun - Changed from Martial to Simple, removed Loading property.
 - Flail - Added Versatile property.
 - Glaive - Added Special property; deals 2d6 when mounted.
 - Halberd - Added Special property; choice of slashing and piercing damage.
