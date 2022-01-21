@@ -37,19 +37,51 @@ A player (especially if they are new) should not have to delve into the 'details
 
 There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d10 damage and has the Versatile property. However, a War Pick deals 1d10 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
 
-Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaive's deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
+Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaives deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
 
-To do: Include full table of weapon changes
+### _Full weapon balance changes:_
+
+Simple:
+
+- Club - Increased damage to 1d6
+- Greatclub - Reduced damage to 1d8, removed Heavy property.
+- Handaxe - Removed Thrown property.
+- Mace - Reduced damage to 1d6.
+- Sickle - Increased damage to 1d6.
+
+Martial:
+
+- Blowgun - Changed from Martial to Simple ranged weapon.
+- Flail - Added Versatile property.
+- Glaive - Added Special property; deals 2d6 when mounted.
+- Halberd - Added Special property; choice of slashing and piercing damage.
+- Morningstar - Added Versatile property.
+- Rapier - Reduced damage to 1d6, added Special property; deals 1d8 when offhand isn't holding a weapon or shield.
+- Trident - Increased damage to 1d8, removed Versatile property.
+- War Pick - Added Versatile property.
 
 ## 4. New weapons
   
-A small number of new weapons have been included such as the Andamacil, War Axe, Pistol, and several new shields.
+A number of new weapons have been included such as the Andamacil, War Axe, Pistol, and several new shields.
   
 ![image](https://user-images.githubusercontent.com/66137312/149818623-881affe7-97a8-41d2-9830-b973c02ab2e7.png)
 
 ![image](https://user-images.githubusercontent.com/66137312/150355221-c646e123-34b7-428b-91f1-fe79091b7daa.png)
 
 ![image](https://user-images.githubusercontent.com/66137312/149820846-36451ee4-a4ec-4747-b9dd-b86929e91e1f.png)
+
+### _Full new item list:_
+
+- Andamacil
+- Crude Club
+- Pistol
+- War Axe
+- Buckler Shield
+- Round Shield
+- Infantry Shield (replacement for RAW shield)
+- Heater Shield
+- Kite Shield
+- Tower Shield
 
 ## Dependencies
 
