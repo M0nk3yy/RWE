@@ -1,10 +1,4 @@
-# v1.0.2
-
-- Added Firearm property to pistol.
-- New weapon: Throwing Bomb.
-- 
-
-## v1.0.1
+# v1.0.1
 
 - Fixed Pistol description stating incorrect damage value.
 - Fixed mod description with screenshot of Pistol description.
