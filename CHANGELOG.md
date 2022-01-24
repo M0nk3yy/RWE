@@ -1,4 +1,4 @@
-# v1.0.3 - Supplies/Kits/Tools Update
+# v1.1.0 - Supplies/Kits/Tools Update
 
 In this update new icons have been set for a variety of supplies, kits, and tools!
 
