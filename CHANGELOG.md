@@ -1,4 +1,23 @@
-# v1.1.0 - Supplies/Kits/Tools Update
+# v1.2.0 - Misc Items Update
+
+In this update, versions of various misc items have been added with new icon choices.
+
+- Bedroll
+- Chess Set
+- Hammer
+- Hourglass
+- Ladder
+- Lock
+- Magnifying Glass
+- Mess Kit
+- Piton
+- Playing Cards Set
+- Pole
+- Shovel
+- Silk Rope
+- Spyglass
+
+## v1.1.0 - Supplies/Kits/Tools Update
 
 In this update new icons have been set for a variety of supplies, kits, and tools!
 
