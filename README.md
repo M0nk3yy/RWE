@@ -15,12 +15,6 @@ Here are some examples. Left = Old, Right = New.
 
 ![image](https://user-images.githubusercontent.com/66137312/149814963-0b3e9f18-4351-4058-aea6-ad30c9b90486.png)
 
-![image](https://user-images.githubusercontent.com/66137312/149817321-e005a9d1-73d1-4240-b30f-4aed945e1352.png)
-
-![image](https://user-images.githubusercontent.com/66137312/149814723-fb672d69-17af-41de-a097-c8ebfb23cd0c.png)
-
-![image](https://user-images.githubusercontent.com/66137312/149814852-cb09d7fe-6e03-4840-99d7-eb42b7f5cd20.png)
-
 ![image](https://user-images.githubusercontent.com/66137312/150981849-f03a0a75-1001-4a0e-ac38-a90a19a17c2f.png)
 
 ![image](https://user-images.githubusercontent.com/66137312/150982246-0114d5b3-b7e4-4bd4-afe4-badb0889cc02.png)
