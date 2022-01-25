@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/M0nk3yy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ![](https://img.shields.io/badge/Foundry-v9-informational) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/RWE) ![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/RWE/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/RWE/latest/total)   ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/RWE) 
+
 # Revised Weapons & Equipment for 5e
 
 This module has several goals:
@@ -89,8 +91,4 @@ Although this mod does not have any dependencies, it is configured to work best 
 
 ## Contact Information
 
-You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
-
-### Trackers
-
-![](https://img.shields.io/badge/Foundry-v9-informational) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/RWE) ![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/RWE/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/RWE/latest/total)   ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/RWE) 
+You can either log issues and queries on GitHub, or contact @Monkeyy on the [FoundryVTT Discord server](https://discord.gg/foundryvtt)
