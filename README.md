@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/M0nk3yy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ![](https://img.shields.io/badge/Foundry-v9-informational) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/RWE) ![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/RWE/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/RWE/latest/total)   ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/RWE) 
+
 # Revised Weapons & Equipment for 5e
 
 This module has several goals:
@@ -33,9 +35,9 @@ A player (especially if they are new) should not have to delve into the 'details
 
 ## 3. Weapon rebalance
 
-There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d10 damage and has the Versatile property. However, a War Pick deals 1d10 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
+There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d8 damage and has the Versatile property. However, a War Pick deals 1d8 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
 
-Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaives deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
+Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaives have a special property allowing them to deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
 
 ### _Full weapon balance changes:_
 
@@ -89,8 +91,4 @@ Although this mod does not have any dependencies, it is configured to work best 
 
 ## Contact Information
 
-You can either log issues and queries on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
-
-### Trackers
-
-![](https://img.shields.io/badge/Foundry-v9-informational) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/M0nk3yy/RWE) ![GitHub all releases](https://img.shields.io/github/downloads/M0nk3yy/RWE/total) ![Latest Downloads](https://img.shields.io/github/downloads/M0nk3yy/RWE/latest/total)   ![GitHub issues](https://img.shields.io/github/issues-raw/M0nk3yy/RWE) 
+You can either log issues and queries on GitHub, or contact @Monkeyy on the [FoundryVTT Discord server](https://discord.gg/foundryvtt)
