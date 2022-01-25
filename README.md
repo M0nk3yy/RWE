@@ -19,7 +19,7 @@ Here are some examples. Left = Old, Right = New.
 
 ![image](https://user-images.githubusercontent.com/66137312/150982246-0114d5b3-b7e4-4bd4-afe4-badb0889cc02.png)
 
-The majority of icons used are core FoundryVTT icons, however there are a few icons that I have included as part of this module.
+The majority of icons used are core FoundryVTT icons, however there are a few icons that I have included as part of this module such as those shown below:
 
 ![image](https://user-images.githubusercontent.com/66137312/149815153-2c0c2b83-4046-4034-8dbc-b4694bccb25a.png)
 
