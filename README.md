@@ -35,9 +35,9 @@ A player (especially if they are new) should not have to delve into the 'details
 
 ## 3. Weapon rebalance
 
-There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d10 damage and has the Versatile property. However, a War Pick deals 1d10 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
+There are a number of weapons in 5E that aren't very well balanced. For example, a Warhammer deals 1d8 damage and has the Versatile property. However, a War Pick deals 1d8 damage but has... no additional properties. War Picks are indeed cheaper, but if even a level one character can easily afford any weapon, it's really not a balancing factor. As such, I have altered a few weapons to enable players to choose the weapon they like, not the weapon they feel is the best.
 
-Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaives deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
+Additionally, some weapons have been made more unique. As written, Glaives and Halberds are functionally identical. With RWE, Glaives have a special property allowing them to deal 2d6 when mounted on horseback, and Halberds can choose between Slashing and Piercing damage.
 
 ### _Full weapon balance changes:_
 
