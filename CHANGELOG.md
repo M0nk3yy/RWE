@@ -17,7 +17,7 @@ In this update, versions of various misc items have been added with new icon cho
 - Silk Rope
 - Spyglass
 
-# v1.1.0 - Supplies/Kits/Tools Update
+## v1.1.0 - Supplies/Kits/Tools Update
 
 In this update new icons have been set for a variety of supplies, kits, and tools!
 
