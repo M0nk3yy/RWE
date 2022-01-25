@@ -21,6 +21,10 @@ Here are some examples. Left = Old, Right = New.
 
 ![image](https://user-images.githubusercontent.com/66137312/149814852-cb09d7fe-6e03-4840-99d7-eb42b7f5cd20.png)
 
+![image](https://user-images.githubusercontent.com/66137312/150981849-f03a0a75-1001-4a0e-ac38-a90a19a17c2f.png)
+
+![image](https://user-images.githubusercontent.com/66137312/150982246-0114d5b3-b7e4-4bd4-afe4-badb0889cc02.png)
+
 The majority of icons used are core FoundryVTT icons, however there are a few icons that I have included as part of this module.
 
 ![image](https://user-images.githubusercontent.com/66137312/149815153-2c0c2b83-4046-4034-8dbc-b4694bccb25a.png)
