@@ -73,6 +73,8 @@ A number of new weapons have been included such as the Andamacil, War Axe, Pisto
 - Andamacil
 - Crude Club
 - Pistol
+- Musket
+- Throwing Bomb
 - War Axe
 - Buckler Shield
 - Round Shield
