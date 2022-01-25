@@ -1,4 +1,4 @@
-# v1.1.1
+# v1.2.0 - Misc Items Update
 
 In this update, versions of various misc items have been added with new icon choices.
 
