@@ -1,23 +1,22 @@
-{   
-   "name": "RWE",   
-   "title": "Revised Weapons & Equipment",   
-   "description": "Revised descriptions, icons, and balance for various weapons & equipment items.",   
-   "author": "Monkeyy",
-   "version": "1.2.1",
-   "system": ["dnd5e"],
-   "minimumCoreVersion": "9",
-   "compatibleCoreVersion":"9",
-   "packs": [
-    {
-      "name": "items",
-      "label": "Revised Weapons & Equipment",
-      "path": "packs/rwe.db",
-      "entity": "Item",
-      "module": "RWE"
+{
+	"name": "RWE",
+	"title": "Revised Weapons & Equipment",
+	"description": "Revised descriptions, icons, and balance for various weapons & equipment items.",
+	"author": "Monkeyy",
+	"version": "1.2.1",
+	"system": ["dnd5e"],
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"packs": [{
+		"name": "items",
+		"label": "Revised Weapons & Equipment",
+		"path": "packs/rwe.db",
+		"entity": "Item",
+		"module": "RWE"
 	}],
 	"media": [{
 		"type": "cover",
-		"url": "https://github.com/M0nk3yy/RWE/blob/working/example"
+		"url": "https://brunhine.com/assets/img/turnmarker/card.png"
 	}],
 	"url": "https://github.com/M0nk3yy/RWE",
 	"manifest": "https://github.com/M0nk3yy/RWE/releases/latest/download/module.json",
