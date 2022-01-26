@@ -1,4 +1,8 @@
-# v1.2.0 - Misc Items Update
+# v1.2.1
+
+Minor updates for Forge Bazaar compatibility, including a banner, and module.json updates.
+
+## v1.2.0 - Misc Items Update
 
 In this update, versions of various misc items have been added with new icon choices.
 
