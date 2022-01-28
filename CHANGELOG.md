@@ -1,4 +1,11 @@
-# v1.2.1
+# v1.2.2
+
+New weapons:
+
+- Cleaver
+- Shiv
+
+## v1.2.1
 
 Minor updates for Forge Bazaar compatibility, including a banner, and module.json updates.
 
