@@ -74,9 +74,11 @@ A number of new weapons have been included such as the Andamacil, War Axe, Pisto
 ### _Full new item list:_
 
 - Andamacil
+- Cleaver
 - Crude Club
 - Pistol
 - Musket
+- Shiv
 - Throwing Bomb
 - War Axe
 - Buckler Shield
