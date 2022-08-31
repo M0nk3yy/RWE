@@ -1,4 +1,16 @@
-# v1.2.3
+# v1.2.8
+
+Supplies, kits, and tools have been removed from the module - as these changes has been added to core DND5e!
+
+A new weapon category for Improvised Melee Weapons has been added. This category currently includes:
+
+- Improvised Weapon
+- Shiv
+- Wooden Stake
+
+Compatibility for Foundry v10 has also been added.
+
+## v1.2.3
 
 Fixed Buckler shield AC and activation cost
 
