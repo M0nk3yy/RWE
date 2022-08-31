@@ -1,4 +1,8 @@
-# v1.2.2
+# v1.2.3
+
+Fixed Buckler shield AC and activation cost
+
+## v1.2.2
 
 New weapons:
 
