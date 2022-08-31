@@ -3,10 +3,20 @@
 	"title": "Revised Weapons & Equipment",
 	"description": "Revised descriptions, icons, and balance for various weapons & equipment items.",
 	"author": "Monkeyy",
-	"version": "1.2.7",
+	"version": "1.2.8",
 	"system": ["dnd5e"],
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
+	"compatibility": {
+        "minimum": 9,
+        "verified": 10
+	},
+	"id": "RWE",
+	"authors": [
+        {
+            "name": "Monkeyy"
+        }
+	],
 	"packs": [{
 		"name": "items",
 		"label": "Revised Weapons & Equipment",
