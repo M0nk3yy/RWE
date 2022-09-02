@@ -1,4 +1,8 @@
-# v1.2.8
+# v1.3.0
+
+v10 compatibility, reorganisation of folders, removal of duplicate weapon, fixed compendium tags.
+
+## v1.2.8
 
 Supplies, kits, and tools have been removed from the module - as these changes has been added to core DND5e!
 
