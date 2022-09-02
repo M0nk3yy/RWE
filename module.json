@@ -19,6 +19,7 @@
 	],
 	"packs": [{
 		"name": "items",
+		"system": "dnd5e",
 		"label": "Revised Weapons & Equipment",
 		"path": "packs/rwe.db",
 		"entity": "Item",
