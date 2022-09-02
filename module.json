@@ -23,6 +23,7 @@
 		"label": "Revised Weapons & Equipment",
 		"path": "packs/rwe.db",
 		"entity": "Item",
+		"type": "Item",
 		"module": "RWE"
 	}],
 	"media": [{
