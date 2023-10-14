@@ -1,4 +1,24 @@
-# v1.2.3
+#v11.0.0
+
+v11 compatibility, including transition to core folders, and new setup and compendium banners.
+
+## v1.3.0
+
+v10 compatibility, reorganisation of folders, removal of duplicate weapon, fixed compendium tags.
+
+## v1.2.8
+
+Supplies, kits, and tools have been removed from the module - as these changes has been added to core DND5e!
+
+A new weapon category for Improvised Melee Weapons has been added. This category currently includes:
+
+- Improvised Weapon
+- Shiv
+- Wooden Stake
+
+Compatibility for Foundry v10 has also been added.
+
+## v1.2.3
 
 Fixed Buckler shield AC and activation cost
 
