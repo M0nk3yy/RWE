@@ -1,4 +1,8 @@
-# v1.3.0
+# v11.0.0
+
+v11 compatibility, including transition to core folders, and new setup and compendium banners.
+
+## v1.3.0
 
 v10 compatibility, reorganisation of folders, removal of duplicate weapon, fixed compendium tags.
 
