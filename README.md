@@ -88,9 +88,6 @@ A number of new weapons have been included such as the Andamacil, War Axe, Pisto
 - Kite Shield
 - Tower Shield
 
-## Dependencies
-
-Although this mod does not have any dependencies, it is configured to work best with the Compendium Folders mod. If you don't use Compendium Folders, you will see some placeholder CF entities in the compendium.
 
 ## Contact Information
 
